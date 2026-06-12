@@ -48,6 +48,9 @@ color:#4da3ff;
 /* LOGO */
 .logo{
 height:38px;
+max-width:160px;
+width:auto;
+object-fit:contain;
 }
 
 /* ================= HERO FULL ================= */
